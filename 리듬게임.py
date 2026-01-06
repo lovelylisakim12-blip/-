@@ -95,3 +95,4 @@ else:
             else:
                 st.session_state.game_over = True
             st.experimental_rerun()
+        
